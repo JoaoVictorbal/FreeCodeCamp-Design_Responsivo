@@ -17,3 +17,5 @@ Outro pilar do desenvolvimento é o CSS uma linguagem de estilização que não 
 
 ## Autor
 João Victor Balbino
+## Redes Sociais
+- [LinkedIn](www.linkedin.com/in/joão-victor-balbino-497325302)
